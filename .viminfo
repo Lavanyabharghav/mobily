@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1685972131,,"wq"
+|2,0,1685973005,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,38 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/one.sh
-|4,48,1,0,1685972131,"~/one.sh"
-'1  1  1  ~/mm.sh
-|4,49,1,1,1685972077,"~/mm.sh"
-'2  52  1  ~/walmart.java
-|4,50,52,1,1685970204,"~/walmart.java"
-'3  52  0  ~/hello.sh
-|4,51,52,0,1685969500,"~/hello.sh"
-'4  1  0  ~/hello.sh
-|4,52,1,0,1685969407,"~/hello.sh"
+'0  35  0  ~/flipkart.java
+|4,48,35,0,1685973005,"~/flipkart.java"
+'1  1  0  ~/one.sh
+|4,49,1,0,1685972131,"~/one.sh"
+'2  1  1  ~/mm.sh
+|4,50,1,1,1685972077,"~/mm.sh"
+'3  52  1  ~/walmart.java
+|4,51,52,1,1685970204,"~/walmart.java"
+'4  52  0  ~/hello.sh
+|4,52,52,0,1685969500,"~/hello.sh"
 '5  1  0  ~/hello.sh
 |4,53,1,0,1685969407,"~/hello.sh"
+'6  1  0  ~/hello.sh
+|4,54,1,0,1685969407,"~/hello.sh"
 
 # Jumplist (newest first):
+-'  35  0  ~/flipkart.java
+|4,39,35,0,1685973005,"~/flipkart.java"
+-'  1  0  ~/flipkart.java
+|4,39,1,0,1685972948,"~/flipkart.java"
+-'  1  0  ~/one.sh
+|4,39,1,0,1685972131,"~/one.sh"
 -'  1  0  ~/one.sh
 |4,39,1,0,1685972131,"~/one.sh"
 -'  1  1  ~/mm.sh
 |4,39,1,1,1685972077,"~/mm.sh"
 -'  1  1  ~/mm.sh
 |4,39,1,1,1685972077,"~/mm.sh"
+-'  1  1  ~/mm.sh
+|4,39,1,1,1685972077,"~/mm.sh"
+-'  1  1  ~/mm.sh
+|4,39,1,1,1685972077,"~/mm.sh"
 -'  52  1  ~/walmart.java
 |4,39,52,1,1685970204,"~/walmart.java"
 -'  52  1  ~/walmart.java
@@ -53,6 +65,22 @@
 |4,39,52,1,1685970204,"~/walmart.java"
 -'  52  1  ~/walmart.java
 |4,39,52,1,1685970204,"~/walmart.java"
+-'  52  1  ~/walmart.java
+|4,39,52,1,1685970204,"~/walmart.java"
+-'  52  1  ~/walmart.java
+|4,39,52,1,1685970204,"~/walmart.java"
+-'  52  1  ~/walmart.java
+|4,39,52,1,1685970204,"~/walmart.java"
+-'  52  1  ~/walmart.java
+|4,39,52,1,1685970204,"~/walmart.java"
+-'  1  0  ~/walmart.java
+|4,39,1,0,1685970173,"~/walmart.java"
+-'  1  0  ~/walmart.java
+|4,39,1,0,1685970173,"~/walmart.java"
+-'  1  0  ~/walmart.java
+|4,39,1,0,1685970173,"~/walmart.java"
+-'  1  0  ~/walmart.java
+|4,39,1,0,1685970173,"~/walmart.java"
 -'  1  0  ~/walmart.java
 |4,39,1,0,1685970173,"~/walmart.java"
 -'  1  0  ~/walmart.java
@@ -77,6 +105,22 @@
 |4,39,52,0,1685969500,"~/hello.sh"
 -'  52  0  ~/hello.sh
 |4,39,52,0,1685969500,"~/hello.sh"
+-'  52  0  ~/hello.sh
+|4,39,52,0,1685969500,"~/hello.sh"
+-'  52  0  ~/hello.sh
+|4,39,52,0,1685969500,"~/hello.sh"
+-'  52  0  ~/hello.sh
+|4,39,52,0,1685969500,"~/hello.sh"
+-'  52  0  ~/hello.sh
+|4,39,52,0,1685969500,"~/hello.sh"
+-'  52  0  ~/hello.sh
+|4,39,52,0,1685969500,"~/hello.sh"
+-'  52  0  ~/hello.sh
+|4,39,52,0,1685969500,"~/hello.sh"
+-'  52  0  ~/hello.sh
+|4,39,52,0,1685969500,"~/hello.sh"
+-'  52  0  ~/hello.sh
+|4,39,52,0,1685969500,"~/hello.sh"
 -'  1  0  ~/hello.sh
 |4,39,1,0,1685969485,"~/hello.sh"
 -'  1  0  ~/hello.sh
@@ -93,6 +137,38 @@
 |4,39,1,0,1685969485,"~/hello.sh"
 -'  1  0  ~/hello.sh
 |4,39,1,0,1685969485,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969485,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969485,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969485,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969485,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969485,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969485,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969485,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969485,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969407,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969407,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969407,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969407,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969407,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969407,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969407,"~/hello.sh"
+-'  1  0  ~/hello.sh
+|4,39,1,0,1685969407,"~/hello.sh"
 -'  1  0  ~/hello.sh
 |4,39,1,0,1685969407,"~/hello.sh"
 -'  1  0  ~/hello.sh
@@ -111,6 +187,14 @@
 |4,39,1,0,1685969407,"~/hello.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/flipkart.java
+	*	1685973002	0
+	"	35	0
+	^	35	1
+	.	35	0
+	+	18	25
+	+	35	0
 
 > ~/one.sh
 	*	1685972129	0
